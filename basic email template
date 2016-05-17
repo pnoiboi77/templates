@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  	<title></title>
+  </head>
+  <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="font-family: 'Myriad Pro', Verdana, Georgia; background-color: #e5e5e5;" bgcolor="#e5e5e5">
+    <table width="600" height="100%" cellpadding="0" cellspacing="0" border="0" valign="top" align="center" style="background-color: #e5e5e5;" bgcolor="#e5e5e5">
+      <tr>
+      	<td align="center" width="100%">
+        	<table width="100%">
+            	<tr>
+            		<td style="text-align: center;" align="center">                    	              			
+                        <p style="font-weight: 500; color: #474747; font-size: 10px;">Is this email not displaying correctly? <b><a href="*|ARCHIVE|*" style="color: #474747;" target="_blank">View it in your browser</a></b>.</p>                        
+              		</td>
+              	</tr>                
+          	</table> 
+        </td>
+      </tr>
+      <tr>
+        <td width="100%"> <!-- basic background image -->
+        	<img src="" height="" width="" border="0" align="center">
+        </td>
+      </tr>      
+      <tr><td height="30" width="100%" style="background-color: #167ac7;" bgcolor="#167ac7"></td></tr> <!--to simulate padding between segments -->
+      <tr>
+      	<td align="center" width="100%" style="background-color: #167ac7;" bgcolor="#167ac7">
+        	<table width="70%"> <!-- basic text simulating left and right padding depending on width percentage -->
+            	<tr>
+            		<td>
+              			<p style="font-weight: 600; font-size: 24px; color: #FFF; text-align: center; line-height: 35px;" align="center"></p>
+              		</td>
+              	</tr>
+          	</table> 
+        </td>
+      </tr>
+      <tr>
+      	<td align="center" width="100%" style="background-color: #f3f3f4;" bgcolor="#f3f3f4"> <!-- basic image that is not background -->
+        	<img height="56" width="64" src="https://www.medport.com/mail/template1/Send.png" title="Sending mail image.">
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
